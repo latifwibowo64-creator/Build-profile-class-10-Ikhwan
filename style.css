@@ -43,6 +43,7 @@ body {
   align-items: center;
   padding: 10px;
   gap: 10px;
+  color: rgb(217, 232, 237);
 }
 .row {
   display: flex;
@@ -111,12 +112,14 @@ body {
   margin-top: 20px;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
   color: rgb(9, 12, 14);
+  padding: 20px;
 }
 .about fieldset {
   width: 300px;
   margin: auto;
   border-radius: 10px;
   background-color: rgb(247, 247, 247);
+  padding: 10px;
 }
 .search {
   text-align: center;
