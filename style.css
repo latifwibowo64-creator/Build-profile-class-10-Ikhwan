@@ -25,65 +25,74 @@ body {
 }
 .santri {
   text-align: center;
-  color: rgba(232, 229, 239, 0.986);
+  color: rgba(232, 229, 239, 0.985);
 }
 .nopal {
   width: 100px;
   height: 100px;
   width: 100px;
   border-radius: 100px;
+  padding: 10px;
 }
 .card {
   display: flex;
-  background-color: rgba(237, 254, 255, 0.633);
+  background-color: rgb(15, 75, 194);
   margin-bottom: 20px;
   width: 300px;
   border-radius: 20px;
   align-items: center;
-  gap: 20px;
+  padding: 10px;
+  gap: 10px;
 }
 .row {
   display: flex;
   justify-content: center;
   margin-top: 20px;
-  gap: 80px;
+  gap: 40px;
   flex-wrap: wrap;
 }
 .muhammad {
   width: 100px;
   height: 100px;
   border-radius: 100px;
+  padding: 10px;
 }
 .fadly {
   width: 100px;
   height: 100px;
   border-radius: 100px;
+  padding: 10px;
 }
 .fakhrie {
   width: 100px;
   height: 100px;
   border-radius: 100px;
+  padding: 10px;
 }
 .jabir {
   width: 100px;
   height: 100px;
   border-radius: 100px;
+  padding: 10px;
 }
 .latif {
   width: 100px;
   height: 100px;
   border-radius: 100px;
+  padding: 10px;
 }
 
 .jundi {
   width: 100px;
   height: 100px;
   border-radius: 100px;
+  padding: 10px;
 }
 .mumtaz {
   width: 100px;
   height: 100px;
   border-radius: 100px;
+  padding: 10px;
 }
 .footer {
   text-align: center;
